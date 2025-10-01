@@ -69,13 +69,6 @@
   <img height="400" src="https://giffiles.alphacoders.com/221/221277.gif"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/CauaABernardes/CauaABernardes/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CauaABernardes.CauaABernardes&left_color=deepskyblue"  />
