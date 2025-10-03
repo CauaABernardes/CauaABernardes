@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋! Me chamo Cauã Bernardes, seja bem-vindo a minha página pessoal</h1>
+<h1 align="left">Olá 👋! Me chamo Cauã Bernardes. Seja bem-vindo à minha página pessoal!</h1>
 
 ###
 
@@ -6,9 +6,64 @@
 
 ###
 
-<p align="left">Olá! Me chamo Cauã Bernardes e atualmente atuo como Aprendiz Técnico na Bosch Brasil.<br><br>Sou apaixonado por tecnologia, com um interesse especial por programação lógica e sistemas embarcados. Estou sempre em busca de novos aprendizados e desafios que me ajudem a evoluir na área.<br><br>No meu tempo livre, gosto de explorar diferentes universos por meio dos jogos, revistas em quadrinhos e dos estudos contínuos — seja aprendendo novas linguagens de programação ou aprofundando meus conhecimentos em eletrônica e desenvolvimento de sistemas.</p>
+<p align="left">
+  Olá! Sou Cauã Bernardes e atualmente atuo como Aprendiz Técnico na Bosch Brasil.<br><br>
+  Sou apaixonado por tecnologia, com interesse especial em programação lógica e sistemas embarcados. Estou sempre em busca de novos conhecimentos e desafios que impulsionem meu crescimento profissional.<br><br>
+  No tempo livre, gosto de explorar diferentes universos por meio de jogos, quadrinhos e estudos contínuos — aprofundando meu entendimento em eletrônica e desenvolvimento de sistemas.
+</p>
 
 ###
+
+<h2 align="left">Experiências 👨‍💻:</h2>
+
+###
+
+<p align="left">
+  Atualmente, sou Aprendiz Técnico na Bosch Brasil, onde tenho a oportunidade de aplicar conhecimentos técnicos em um ambiente inovador, colaborativo, repleto de oportunidades e pessoas incríveis.<br><br>
+  Anteriormente, atuei como mentor dos alunos ingressantes no Colégio Técnico de Campinas - Unicamp, auxiliando-os no início da jornada acadêmica com orientações práticas e suporte contínuo.
+</p>
+
+###
+
+<h2 align="left">Formação Acadêmica 🧑‍🎓:</h2>
+
+###
+
+<h3 align="left">Técnico em Desenvolvimento de Sistemas – COTUCA / UNICAMP (2024 – atualmente)</h3>
+
+<p align="left">
+  Curso focado no desenvolvimento de software e sistemas, abordando programação, bancos de dados, redes, tecnologias embarcadas e desenvolvimento mobile.<br><br>
+  
+  <strong>Trabalho de Conclusão de Curso (em andamento):</strong><br>
+  Desenvolvimento de um dispositivo IoT com o objetivo de possibilitar que pessoas com deficiência visual realizem a leitura de livros de forma autônoma.<br><br>
+
+  <strong>Atividades extracurriculares:</strong><br>
+  • Mentor de alunos ingressantes – 07/02/2025 a 30/06/2025<br>
+  • Oficina de GitHub (para alunos do Vespertino) – ministrada em 07/05/2025<br>
+  • Oficina de GitHub (para alunos do Noturno)– ministrada em 03/09/2025
+</p>
+
+<h3 align="left">Tecnólogo em Análise e Desenvolvimento de Sistemas – FATEC Campinas (2025)</h3>
+
+<p align="left">
+  Curso atualmente trancado.<br><br>
+
+  <strong>Atividades extracurriculares:</strong><br>
+  • Desenvolvimento de um jogo para o evento "FATEC de Portas Abertas".
+</p>
+
+<h3 align="left">Técnico em Desenvolvimento de Sistemas – SENAI (2025 – atualmente)</h3>
+
+<p align="left">
+  Curso iniciado recentemente, com foco em programação, banco de dados e desenvolvimento full stack.<br><br>
+  Estou em fase inicial dos estudos e me preparando para futuros projetos e atividades práticas que serão desenvolvidos ao longo da formação.
+</p>
+
+
+
+###
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CauaABernardes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="180" alt="stats graph"  />
