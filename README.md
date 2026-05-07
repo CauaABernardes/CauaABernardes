@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="left">Técnico em Desenvolvimento de Sistemas – COTUCA / UNICAMP (2024 – atualmente)</h3>
+<h3 align="left">Técnico em Desenvolvimento de Sistemas – COTUCA / UNICAMP (2024 – 2025)</h3>
 
 <p align="left">
   Curso focado no desenvolvimento de software e sistemas, abordando programação, bancos de dados, redes, tecnologias embarcadas e desenvolvimento mobile.<br><br>
